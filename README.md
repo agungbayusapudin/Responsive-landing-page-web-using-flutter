@@ -1,4 +1,8 @@
-Uploading Screen Recording 2024-09-26 at 21.59.53.mov…
+# desktop view
+
+# mobiile view
+
+https://github.com/user-attachments/assets/401f7868-1f98-446d-b6b7-3768c32bb261
 
 # food_del_web_responsive
 
