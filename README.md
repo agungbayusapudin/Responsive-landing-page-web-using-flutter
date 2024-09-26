@@ -1,3 +1,6 @@
+# creating landing page using flutter responsive web design
+<img width="1182" alt="Screenshot 2024-09-26 at 22 06 34" src="https://github.com/user-attachments/assets/251b6e14-7efa-4468-9667-3564e0d231ff">
+
 # desktop view
 
 https://github.com/user-attachments/assets/c1f07e54-23d9-412e-a503-6b4d57088103
