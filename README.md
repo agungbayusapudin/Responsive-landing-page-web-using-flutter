@@ -1,5 +1,6 @@
 # desktop view
 
+https://github.com/user-attachments/assets/c1f07e54-23d9-412e-a503-6b4d57088103
 # mobiile view
 
 https://github.com/user-attachments/assets/401f7868-1f98-446d-b6b7-3768c32bb261
